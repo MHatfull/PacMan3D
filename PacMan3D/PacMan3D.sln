@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacMan3D.CSharp", "PacMan3D.CSharp.csproj", "{D3F107C5-8BD5-9994-6306-FF026540F930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacMan3D.CSharp.Editor", "PacMan3D.CSharp.Editor.csproj", "{6A029500-2502-210C-55E2-27D74C46E017}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F107C5-8BD5-9994-6306-FF026540F930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F107C5-8BD5-9994-6306-FF026540F930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F107C5-8BD5-9994-6306-FF026540F930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F107C5-8BD5-9994-6306-FF026540F930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A029500-2502-210C-55E2-27D74C46E017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A029500-2502-210C-55E2-27D74C46E017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A029500-2502-210C-55E2-27D74C46E017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A029500-2502-210C-55E2-27D74C46E017}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
